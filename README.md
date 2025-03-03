@@ -1,7 +1,7 @@
 # IEEE_CS_Task
 This repo stores the colab file where I performed the task for core member selection.
 
-###Level 1
+### Level 1
 
 I used pandas to read the datset.
 Did some basic analysis of the dataset.
@@ -14,7 +14,7 @@ To conclude the EDA, I looked at the pixel distribution vaalues for the entire d
 
 
 
-###Level 2
+### Level 2
 
 Firstly I normalized the dataset.
 Then I created a multinomial Logistic Regression model using sklearn and trained the model.
@@ -25,7 +25,7 @@ I also plotted feature importance to get the most important feature overall.
 
 
 
-###Level 3
+### Level 3
 
 Here I started by creating a model using artificial neural network.
 The architecture had one input layer, 2 hidden layers with relu activation, and one output layer with softmax activation.
